@@ -1,0 +1,10 @@
+[submodule "python"]
+	path = python
+	url = https://codeberg.org/fileTestSuite/fileTestSuite.py
+	branch = master
+	shallow = true
+[submodule "C"]
+	path = C
+	url = https://codeberg.org/fileTestSuite/fileTestSuite.c
+	branch = master
+	shallow = true
